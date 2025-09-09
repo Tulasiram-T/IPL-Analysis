@@ -2,10 +2,10 @@
 📊 IPL Analysis Dashboard (Tableau Project)
 📌 Project Overview
 
-## 🌐 View Dashboard Online
+## 🌐 View Dashboard Online  
 
 You can interact with the full IPL Analysis dashboard here:  
-👉 [View on Tableau Public]([https://public.tableau.com/views/IPLAnalysis/Dashboard1](https://public.tableau.com/app/profile/tulasiram.timmana/viz/IPLAnalysisDashboard_17574069074210/IPLMainDashboard?publish=yes))
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/tulasiram.timmana/viz/IPLAnalysisDashboard_17574069074210/IPLMainDashboard?publish=yes)
 
 
 This project analyzes historical IPL (Indian Premier League) data using Tableau.
